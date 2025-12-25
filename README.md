@@ -2,7 +2,7 @@
 
 ## About me
 
-- 🌝 Anastasiia Mironova | QA Engineer | Moscow Region | DME.
+- 🌝 Anastasiia Mironova | QA Engineer | Russia | Moscow Region | DME.
 - 🔍 Looking for opportunities in Manual QA with gradual involvement in test automation, motivated by the opportunity to improve and refine my current skills and technical stack.   
 - 🧗‍♀️ Currently improving Python skills, exploring Playwright; next steps — Docker, containerization and test environments setup.
 - 🎮 Areas of interest: GameDev, interactive products, complex user flows.
@@ -12,6 +12,7 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mrnvst)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ananmironova97@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ananmironova/)
 
 </div>
 
