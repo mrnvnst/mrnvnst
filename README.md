@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋
 
 ## About me
 
@@ -17,20 +17,12 @@
 </div>
 
 ### I've experience with:
-- Functional, regression and smoke testing,
-- REST API testing,
-- test documentation,
--  UI and API automation.
+- Functional, regression and smoke testing.
+- REST API testing.
+- Test documentation.
+- UI and API automation.
 
-## 🛠️ Skills & Tools
-
-**Manual QA**
-- Test design: checklists, test cases, bug reports.  
-- functional, regression, smoke testing.
-- requirements and acceptance criteria analysis.  
-- cross-browser and cross-platform testing.  
-
----
+## Skills and Tools
 
 **Web & Mobile**
 <div align="center">
