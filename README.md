@@ -3,11 +3,13 @@
 ### About me
 
 <div>
-<li><strong>Experience</strong>: functional, regression and smoke testing, REST API testing, test documentation, unit, UI, and API automation.</li>
-<li><strong>Looking for opportunities</strong>: Manual QA with gradual involvement in test automation, motivated by the opportunity to improve and refine my current skills and technical stack.</li>   
-<li><strong>Hard working</strong>: currently improving Python skills, exploring Playwright; next steps – Proxyman, Docker and test environments setup.</li>
-<li><strong>Areas of interest</strong>: GameDev, interactive products, complex user flows.</li>
-<li><strong>Connection</strong>: if you're interested in collaborating – I'd love to hear from you!</div>
+    <ul style="padding-left: 20px;">
+        <li><strong>Experience</strong>: functional, regression and smoke testing, REST API testing, test documentation, unit, UI, and API automation.</li>
+        <li><strong>Looking for opportunities</strong>: Manual QA with gradual involvement in test automation, motivated by the opportunity to improve and refine my current skills and technical stack.</li>   
+        <li><strong>Hard working</strong>: currently improving Python skills, exploring Playwright; next steps – Proxyman, Docker and test environments setup.</li>
+        <li><strong>Areas of interest</strong>: GameDev, interactive products, complex user flows.</li>
+        <li><strong>Connection</strong>: if you're interested in collaborating – I'd love to hear from you!</div>
+    </ul>
 </div>
 
 ---
